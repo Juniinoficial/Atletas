@@ -1,4 +1,4 @@
-## **README.md Descontraído para Iniciantes**
+## **Motor de Busca - Imersão Alura**
 
 ### **O que essa aplicação faz?**
 
